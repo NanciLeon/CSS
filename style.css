@@ -1,5 +1,18 @@
 html{
-    color: rgba(200,0,0);
+    color: rgba(0,0,0,10);
     background-image: url("./teia.jpg");
 }
-    
+h1{
+    color: rgba(300,0,0,10);
+}
+h2{
+    color: rgba(100,0,300,11)
+}
+#título-texto{
+    color: rgba(0,0,200,5);
+
+}
+.título-aula{
+    color: rgba(0,500,11);
+}
+
