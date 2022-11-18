@@ -4,6 +4,9 @@ h2{
 p{
     color:blueviolet;
 }
+main h1{
+    color:black;
+}
 .título-aula {
     text-decoration: underline;
 }
