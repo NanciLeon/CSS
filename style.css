@@ -1,29 +1,5 @@
-h2{
-    color: rgba(0,255,0,1);
+html{
+    color: rgba(200,0,0);
+    background-image: url("./teia.jpg");
 }
-p{
-    color: rgba(200,0,200,4);
-}
-main{
-    background-color: #e3eb9a;
-}
-#título-texto {
-    color: rgba(0,0,200,5);
-    background-color:rgba(0,0,50,5)
-}
-
-.título-aula {
-    text-decoration: underline;
-}
-.texto-azul{
-    color: rgba(0,0,200,5);
-}
-.texto-vermelho{
-    color: rgba(200,0,0,5);
-}
-#título-primeira-aula{
-    text-decoration: none;
-}
-#título-segunda-aula{
-    color:rgba(100,0,1.5);
-}
+    
