@@ -1,24 +1,24 @@
 h2{
-    color: green;
+    color: rgba(0,255,0,1);
 }
 p{
-    color:blueviolet;
+    color: rgba(200,0,200,4);
 }
 main h1{
-    color:black;
+    color: rgba(0,0,0,0);
 }
 .título-aula {
     text-decoration: underline;
 }
 .texto-azul{
-    color: blue;
+    color: rgba(0,0,200,5);
 }
 .texto-vermelho{
-    color: red;
+    color: rgba(200,0,0,5);
 }
 #título-primeira-aula{
     text-decoration: none;
 }
 #título-segunda-aula{
-    color:brown;
+    color:rgba(100,0,1.5);
 }
