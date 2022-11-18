@@ -4,9 +4,14 @@ h2{
 p{
     color: rgba(200,0,200,4);
 }
-main h1{
-    color: rgba(0,0,0,0);
+main{
+    background-color: #e3eb9a;
 }
+#título-texto {
+    color: rgba(0,0,200,5);
+    background-color:rgba(0,0,50,5)
+}
+
 .título-aula {
     text-decoration: underline;
 }
